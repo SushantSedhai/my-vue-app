@@ -197,11 +197,6 @@ docker ps
 # View logs
 docker logs vue-app
 
-# Stop the container
-docker stop vue-app
-
-# Remove the container
-docker rm vue-app
 ```
 
 ### Option 2: Using Docker Compose
