@@ -10,6 +10,7 @@ This guide will walk you through setting up a Vue.js application and deploying i
 - Docker Compose (optional, but recommended)
 
 ## Project Directory Structure
+```
 my-vue-app/
 ├── README.md
 └── my-vue-app
@@ -26,7 +27,7 @@ my-vue-app/
     ├── src
     ├── vue.config.js
     └── yarn.lock
-
+```
 ## Project Setup
 
 ### 1. Create a New Vue.js Application
